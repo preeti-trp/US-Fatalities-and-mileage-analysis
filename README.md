@@ -1,16 +1,23 @@
 # US-Fatalities-and-mileage-analysis
 This project focuses on visualizing and analyzing trends in traffic fatalities and vehicle mileage across U.S. states from 2007 to 2018, using data sourced from Pennsylvania’s public driving safety portal. The dashboard is designed to provide insights into road safety performance and identify improvement areas at both a national and state level.
 
-Files path:
+**Files path:
 
 /US-Fatalities-and-mileage-analysis
+
   |-- PA Driving Safety.xlsx
+  
   |-- Fatalities and Mileage over years.pbix
+  
   |-- README.md  
+  
   |-- Screenshots/
+  
        |-- summary_page_with_map_view.png
+       
        |-- drill_state_page_fatalities.png
-       |-- drill_state_page_fatalities_and_mileage_.png
+       
+       |-- drill_state_page_fatalities_and_mileage_.png**
 
 Key Features:
 🔹 Interactive Summary Page:
