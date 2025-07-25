@@ -21,7 +21,7 @@ This project focuses on visualizing and analyzing trends in traffic fatalities a
 
 Dashboard Link: Copy and paste the following link on your browser
 
-🔹 https://app.powerbi.com/view?r=eyJrIjoiMjY2NDU1MmQtOGU3Ny00MzRmLThiODItMTc3MDlhYWY5ZDFiIiwidCI6IjFmZTA3YjRhLTcyNjItNDc1ZC1hMGZjLWY0NDEyODdmYWZlMCJ9
+https://app.powerbi.com/view?r=eyJrIjoiMjY2NDU1MmQtOGU3Ny00MzRmLThiODItMTc3MDlhYWY5ZDFiIiwidCI6IjFmZTA3YjRhLTcyNjItNDc1ZC1hMGZjLWY0NDEyODdmYWZlMCJ9
 
 Key Features:
 🔹 Interactive Summary Page:
